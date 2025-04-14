@@ -18,7 +18,7 @@ This repository provides a Python script using Pyshark to automate the capture a
 
 ## Output Screenshots
 
-[1](/screenshots/)  
+[https://github.com/baralsamrat/MSCS631_WireShark_7/tree/main/screenshots](/https://github.com/baralsamrat/MSCS631_WireShark_7/tree/main/screenshots)  
 
 ## Directory Structure
 ```
